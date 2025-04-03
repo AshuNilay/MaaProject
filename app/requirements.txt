@@ -1,0 +1,11 @@
+streamlit
+sqlalchemy
+pandas
+asyncio
+langchain
+langchain-openai
+langgraph
+openai
+Ipython
+langchain_community
+plotly

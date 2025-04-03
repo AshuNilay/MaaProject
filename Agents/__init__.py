@@ -1,0 +1,3 @@
+from Agents.data_wrangling_agent import DataWranglingAgent
+from Agents.data_visualization_agent import DataVisualizationAgent
+from Agents.fwsr_data_analyst import PandasDataAnalyst
